@@ -11,6 +11,7 @@
 	<groupId>com.aea</groupId>
 	<artifactId>Alien_JPA</artifactId>
 	<version>0</version>
+	<packaging>war</packaging>
 	<name>Alien_JPA</name>
 	<description>Demo project for Spring Boot</description>
 
