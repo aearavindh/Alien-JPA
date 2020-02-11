@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.aea</groupId>
 	<artifactId>Spring_Boot_JPA</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring_Boot_JPA</name>
+	<version>0</version>
+	<name>Alien_JPA</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
