@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Alien_JPA</title>
 </head>
 <body>
 <h3>Add Alien</h3>
