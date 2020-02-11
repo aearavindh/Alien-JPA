@@ -9,7 +9,7 @@ build:
   script: mvn clean install
   artifacts:
     paths:
-     - target/
+     - target/Alien_JPA-0.war
 execute:
   stage: execute
   tags:
