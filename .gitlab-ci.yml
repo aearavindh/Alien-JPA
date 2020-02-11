@@ -10,9 +10,8 @@ build:
   artifacts:
     paths:
      - target/
-
-test:
-  stage: test
+execute:
+  stage: execute
   tags:
      - java-ci
   script: mvn spring-boot:run
